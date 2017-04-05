@@ -1,6 +1,7 @@
 
 public class Maze_layout {
 /* VARIABLES
+ * MOAR STUFF
  * ------------------------------------------------
  *   GRIDMAP ---
  *   int[][] gridArray - Array of all rooms
